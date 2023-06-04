@@ -222,14 +222,9 @@ header .container{
     }
 }
 header .container .logo{
-    width: 120px;
+    width: 60px;
     background-color: #000000bd;
     border-radius: 50%;
-}
-@media(max-width:767px){
-    header .container .logo{
-        width:90px;
-    }
 }
 header .container nav .main-nav{
     display: flex;
