@@ -1614,7 +1614,7 @@ display: block;
     display: flex;
     justify-content: center;
     align-items: center;
-    animation: change-background linear 10s infinite;
+    animation: change-background linear 8s infinite;
 }
 @keyframes change-background {
     0%,100%{
